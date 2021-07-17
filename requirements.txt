@@ -1,6 +1,5 @@
 streamlit
 opencv-python
 mediapipe
-pil
 numpy
 face_recognition
