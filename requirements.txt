@@ -1,6 +1,1 @@
-python
-mediapipe
-dlib
-facerecongition
-
 streamlit
