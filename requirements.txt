@@ -3,4 +3,4 @@ opencv-python
 mediapipe
 numpy
 face_recognition
-opencv
+
